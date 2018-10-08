@@ -1,0 +1,26 @@
+body{
+  background-image: url("../img/cocina.jpg");
+  background-size: cover
+  background-repeat: no-repeat;
+}
+.menu{
+  margin-top: 1rem;
+}
+.contenedor{
+  background-color: rgba(35, 35, 35, 0.5);
+}
+.contenedor-menu{
+  background-color: rgba(252, 245, 247, 1);
+}
+.publicaciones{
+  background-color: rgba(255, 248, 215, 1);
+}
+.comentarios{
+  background-color: rgba(255, 243, 194, 1);
+}
+.title{
+  color: white;
+}
+.fecha{
+  color: #723B05;
+}
