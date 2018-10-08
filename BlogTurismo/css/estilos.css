@@ -1,0 +1,52 @@
+body{
+  background-image: url("../img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.responsive-img{
+  border: 0.2rem solid white;
+  border-radius: 5px;
+  margin: 12px;
+  width: 150px;
+  float: left;
+}
+.title{
+  font-size: 20px;
+
+}
+.botones{
+  margin-top: 0.5rem;
+}
+.contenedor{
+  height: 80px;
+}
+.social{
+  width: 40px;
+}
+.multimedia{
+  margin-top: 5rem;
+}
+.responsive-img-1{
+  border: 0.2rem solid white;
+  border-radius: 0.5rem;
+}
+.responsive-img-2{
+  border: 0.2rem solid white;
+  border-radius: 5px;
+  margin: 5px;
+  float: left;
+  width: 250px;
+}
+.entrada{
+  text-align:justify;
+}
+.responsive-img-3{
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+}
+@media screen and (max-width: 650px){
+  .responsive-img-1{
+    width: 100%;
+  }
+}
